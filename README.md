@@ -78,5 +78,3 @@ I am a Full Stack & Mobile Application Developer <img src="https://media.giphy.c
 ### :laughing: Today's Programming Joke :
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
