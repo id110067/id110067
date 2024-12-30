@@ -33,8 +33,6 @@ I am a Full Stack & Mobile Application Developer <img src="https://media.giphy.c
 
 - :zap: In my free time, I hit the gym and read financial newsletters.
 
-- :computer: Visit my Personal Portfolio page at https://abdrahm.dev/
-
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-abdur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadabdurrahman/)
 
 ---
